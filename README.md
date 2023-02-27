@@ -55,3 +55,5 @@ My name is **João Pedro**, also known as **Kurt**. I'm a **Python Developer** a
 <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
     <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
 </a>
+
+Icons by [devicons](https://devicon.dev).
