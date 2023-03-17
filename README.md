@@ -1,59 +1,33 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
-
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello there 👋
 
 
-My name is **João Pedro**, also known as **Kurt**. I'm a **Python Developer** and also undergraduate in **Psychology** at [UNESP](https://www2.unesp.br/).
-<br />
+# About Me
+- 😃 My name is João Pedro
+- 🐍 I'm a Python Developer
 
-## Languages and Tools
-<a href="https://www.djangoproject.com/" target="_blank">
-    <i class="devicon-django-plain-wordmark"></i>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-    <i class="devicon-docker-plain-wordmark"></i>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-    <i class="devicon-flask-original-wordmark"></i>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <i class="devicon-git-plain-wordmark"></i>
-</a>
-<a href="https://grafana.com" target="_blank">
-    <i class="devicon-grafana-original-wordmark"></i>
-</a>
-<a href="https://www.java.com" target="_blank">
-    <i class="devicon-java-plain-wordmark"></i>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-    <i class="devicon-linux-plain"></i>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <i class="devicon-mongodb-plain-wordmark"></i>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <i class="devicon-mysql-plain-wordmark"></i>
-</a>
-<a href="https://www.python.org" target="_blank">
-    <i class="devicon-python-plain-wordmark"></i>
-</a>
-<a href="https://www.selenium.dev" target="_blank">
-    <i class="devicon-selenium-original"></i>
-</a>
-<a href="https://aws.amazon.com/pt/" target="_blank">
-    <i class="devicon-amazonwebservices-plain-wordmark"></i>
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <i class="devicon-pycharm-plain-wordmark"></i>
-</a>
-<a href="https://www.atlassian.com/br/software/jira" target="_blank">
-    <i class="devicon-jira-plain"></i>
-</a>
-<a href="https://spring.io/" target="_blank">
-    <i class="devicon-spring-plain-wordmark"></i>
-</a>
-<a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
-    <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
-</a>
+# Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Icons by [devicons](https://devicon.dev).
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=joaopedroguimaraes&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=joaopedroguimaraes&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
+
+
+# Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedroguimaraes96@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroguimaraes/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
